@@ -12,15 +12,19 @@ With the help of AI, particularly large language models (LLMs) like ChatGPT, you
 
 Here are **3 GPT prompts** I use to get more out of my Spanish podcasts:
 
+1. [Extract Vocabulary into an Anki Deck](#-1-extract-vocabulary-into-an-anki-deck-)
+1. [Generate Comprehension Questions](#-2-generate-comprehension-questions-)
+3. [Grammar Practice: Verb Conjugation in Context](#-3-grammar-practice-verb-conjugation-in-context-)
+
 ---
 
 ## 🧾 1. Extract Vocabulary into an Anki Deck 🗂️
 
-### ✅ Why it's useful:
+### ✅ Why it's useful
 
 Building a strong vocabulary is essential 💪, and using real podcast content means you're learning words **in context**, not from a list. This prompt helps you automatically extract the most useful words and get them ready for spaced repetition.
 
-### 🧠 Prompt:
+### 🧠 Prompt
 
 ```
 1. Read the transcript below
@@ -32,7 +36,7 @@ Transcript:
 <Insert transcript here>
 ```
 
-### 📝 Example Output:
+### 📝 Example Output
 
 ```
 Spanish,English,Example Sentence
@@ -41,14 +45,14 @@ amable,friendly,La señora fue muy amable conmigo.
 aprender,to learn,Es importante aprender algo nuevo cada día.
 ```
 
-### 🚀 Advanced Tips:
+### 🚀 Advanced Tips
 
 * Add a column with **part of speech** 🧩 to sort or filter later.
 * Ask GPT to **simplify the sentences** for beginner learners or keep the original for B+ learners.
 * If 50 words feel like too much, reduce the list to the **top 20 high-frequency words** based on context.
 * Want thematic vocab? Add: "Focus on words related to emotions 😊 / food 🍲 / travel ✈️."
 
-### 🔗 Resources:
+### 🔗 Resources
 
 * [Espanol Con Juan Transcripts](https://1001reasonstolearnspanish.com/podcasts/)
 * [Coffee Break Spanish](https://coffeebreaklanguages.com/coffeebreakspanish/)
@@ -59,11 +63,11 @@ aprender,to learn,Es importante aprender algo nuevo cada día.
 
 ## ❓ 2. Generate Comprehension Questions 🤓
 
-### ✅ Why it's useful:
+### ✅ Why it's useful
 
 Asking and answering questions about what you hear forces you to **actively process the content** , reinforcing listening and reading comprehension. It also helps you **think in Spanish** and get used to how questions are formed.
 
-### 🧠 Prompt:
+### 🧠 Prompt
 
 ```
 Let’s talk about the text in Spanish.
@@ -75,7 +79,7 @@ Transcript:
 <Insert transcript here>
 ```
 
-### 📝 Example Output:
+### 📝 Example Output
 
 ```
 1. ¿Dónde vive el protagonista? (Línea 4)
@@ -85,7 +89,7 @@ Transcript:
 5. ¿Cuándo empezó a estudiar español? (Línea 15)
 ```
 
-### 🚀 Advanced Tips:
+### 🚀 Advanced Tips
 
 * Ask for a **mix of easy and difficult questions** 🎯.
 * Want to quiz yourself later? Request the **answers hidden below a spoiler tag** or as a separate message.
@@ -96,11 +100,11 @@ Transcript:
 
 ## 🧩 3. Grammar Practice: Verb Conjugation in Context 🧠
 
-### ✅ Why it's useful:
+### ✅ Why it's useful
 
 Grammar doesn't have to mean dry drills. You can target specific structures **in context** using real sentences from your podcast. This kind of targeted practice strengthens your grammar and helps you notice patterns in natural speech.
 
-### 🧠 Prompt:
+### 🧠 Prompt
 
 ```
 You are a Spanish teacher.
@@ -121,7 +125,7 @@ Transcript:
 <Insert transcript here>
 ```
 
-### 📝 Example Output (Present Tense):
+### 📝 Example Output (Present Tense)
 
 ```
 1. Yo ___ (comer) en casa todos los días.
@@ -131,7 +135,7 @@ Transcript:
 5. Tú ___ (leer) muchos libros.
 ```
 
-### 🚀 Advanced Tips:
+### 🚀 Advanced Tips
 
 * Not sure which grammar point to study? Use: "List all the grammatical concepts present in this transcript."
 * Change the focus: "Create 5 examples using the preterite tense." or "Focus only on reflexive verbs."
@@ -144,7 +148,6 @@ Transcript:
 
 Language learning is no longer limited to textbooks. With the combination of **authentic content** like podcasts and powerful tools like ChatGPT, you're in control of your own curriculum. These prompts help you **go beyond passive listening**, turning every episode into an active learning session.
 
-Use them regularly, adapt them to your goals, and most importantly: keep it fun and consistent. Happy learning! 
+Use them regularly, adapt them to your goals, and most importantly: keep it fun and consistent. Happy learning!
 
 **Have a favorite Spanish podcast you want to work with? Try one of the prompts above and see how much more you get out of it.**
-

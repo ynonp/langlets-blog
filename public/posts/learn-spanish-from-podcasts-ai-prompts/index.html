@@ -119,11 +119,16 @@
   <div class="post-content"><p>Once you start feeling more comfortable in a language, learning becomes a lot more fun 🎉. At the B level, you&rsquo;re able to engage with a wide range of content using the <strong>comprehensible input</strong> method—language that&rsquo;s just slightly above your level but still understandable. Podcasts are one of the best sources for this, but are you getting the most out of them?</p>
 <p>With the help of AI, particularly large language models (LLMs) like ChatGPT, you can dramatically boost your learning by actively working with the content you consume. Instead of just listening passively, you can turn every episode into a rich learning experience.</p>
 <p>Here are <strong>3 GPT prompts</strong> I use to get more out of my Spanish podcasts:</p>
+<ol>
+<li><a href="#-1-extract-vocabulary-into-an-anki-deck-">Extract Vocabulary into an Anki Deck</a></li>
+<li><a href="#-2-generate-comprehension-questions-">Generate Comprehension Questions</a></li>
+<li><a href="#-3-grammar-practice-verb-conjugation-in-context-">Grammar Practice: Verb Conjugation in Context</a></li>
+</ol>
 <hr>
 <h2 id="-1-extract-vocabulary-into-an-anki-deck-">🧾 1. Extract Vocabulary into an Anki Deck 🗂️<a hidden class="anchor" aria-hidden="true" href="#-1-extract-vocabulary-into-an-anki-deck-">#</a></h2>
-<h3 id="-why-its-useful">✅ Why it&rsquo;s useful:<a hidden class="anchor" aria-hidden="true" href="#-why-its-useful">#</a></h3>
+<h3 id="-why-its-useful">✅ Why it&rsquo;s useful<a hidden class="anchor" aria-hidden="true" href="#-why-its-useful">#</a></h3>
 <p>Building a strong vocabulary is essential 💪, and using real podcast content means you&rsquo;re learning words <strong>in context</strong>, not from a list. This prompt helps you automatically extract the most useful words and get them ready for spaced repetition.</p>
-<h3 id="-prompt">🧠 Prompt:<a hidden class="anchor" aria-hidden="true" href="#-prompt">#</a></h3>
+<h3 id="-prompt">🧠 Prompt<a hidden class="anchor" aria-hidden="true" href="#-prompt">#</a></h3>
 <pre tabindex="0"><code>1. Read the transcript below
 2. Create a vocabulary list containing 50 of the most important words in the text
 3. Output format: CSV for import into Anki
@@ -131,19 +136,19 @@ Columns: Spanish, English, Example Sentence (from the original text or a simplif
 
 Transcript:
 &lt;Insert transcript here&gt;
-</code></pre><h3 id="-example-output">📝 Example Output:<a hidden class="anchor" aria-hidden="true" href="#-example-output">#</a></h3>
+</code></pre><h3 id="-example-output">📝 Example Output<a hidden class="anchor" aria-hidden="true" href="#-example-output">#</a></h3>
 <pre tabindex="0"><code>Spanish,English,Example Sentence
 cansado,tired,Estoy muy cansado hoy.
 amable,friendly,La señora fue muy amable conmigo.
 aprender,to learn,Es importante aprender algo nuevo cada día.
-</code></pre><h3 id="-advanced-tips">🚀 Advanced Tips:<a hidden class="anchor" aria-hidden="true" href="#-advanced-tips">#</a></h3>
+</code></pre><h3 id="-advanced-tips">🚀 Advanced Tips<a hidden class="anchor" aria-hidden="true" href="#-advanced-tips">#</a></h3>
 <ul>
 <li>Add a column with <strong>part of speech</strong> 🧩 to sort or filter later.</li>
 <li>Ask GPT to <strong>simplify the sentences</strong> for beginner learners or keep the original for B+ learners.</li>
 <li>If 50 words feel like too much, reduce the list to the <strong>top 20 high-frequency words</strong> based on context.</li>
 <li>Want thematic vocab? Add: &ldquo;Focus on words related to emotions 😊 / food 🍲 / travel ✈️.&rdquo;</li>
 </ul>
-<h3 id="-resources">🔗 Resources:<a hidden class="anchor" aria-hidden="true" href="#-resources">#</a></h3>
+<h3 id="-resources">🔗 Resources<a hidden class="anchor" aria-hidden="true" href="#-resources">#</a></h3>
 <ul>
 <li><a href="https://1001reasonstolearnspanish.com/podcasts/">Espanol Con Juan Transcripts</a></li>
 <li><a href="https://coffeebreaklanguages.com/coffeebreakspanish/">Coffee Break Spanish</a></li>
@@ -152,9 +157,9 @@ aprender,to learn,Es importante aprender algo nuevo cada día.
 </ul>
 <hr>
 <h2 id="-2-generate-comprehension-questions-">❓ 2. Generate Comprehension Questions 🤓<a hidden class="anchor" aria-hidden="true" href="#-2-generate-comprehension-questions-">#</a></h2>
-<h3 id="-why-its-useful-1">✅ Why it&rsquo;s useful:<a hidden class="anchor" aria-hidden="true" href="#-why-its-useful-1">#</a></h3>
+<h3 id="-why-its-useful-1">✅ Why it&rsquo;s useful<a hidden class="anchor" aria-hidden="true" href="#-why-its-useful-1">#</a></h3>
 <p>Asking and answering questions about what you hear forces you to <strong>actively process the content</strong> , reinforcing listening and reading comprehension. It also helps you <strong>think in Spanish</strong> and get used to how questions are formed.</p>
-<h3 id="-prompt-1">🧠 Prompt:<a hidden class="anchor" aria-hidden="true" href="#-prompt-1">#</a></h3>
+<h3 id="-prompt-1">🧠 Prompt<a hidden class="anchor" aria-hidden="true" href="#-prompt-1">#</a></h3>
 <pre tabindex="0"><code>Let’s talk about the text in Spanish.
 Create 5 comprehension questions in Spanish based on the transcript.
 Each question should have a short 3-4 word answer.
@@ -162,13 +167,13 @@ Do not print the answers, just include (line numbers) where the answers can be f
 
 Transcript:
 &lt;Insert transcript here&gt;
-</code></pre><h3 id="-example-output-1">📝 Example Output:<a hidden class="anchor" aria-hidden="true" href="#-example-output-1">#</a></h3>
+</code></pre><h3 id="-example-output-1">📝 Example Output<a hidden class="anchor" aria-hidden="true" href="#-example-output-1">#</a></h3>
 <pre tabindex="0"><code>1. ¿Dónde vive el protagonista? (Línea 4)
 2. ¿Qué hacía los domingos? (Línea 10)
 3. ¿Cuántos hermanos tiene? (Línea 7)
 4. ¿Cómo se llama su perro? (Línea 12)
 5. ¿Cuándo empezó a estudiar español? (Línea 15)
-</code></pre><h3 id="-advanced-tips-1">🚀 Advanced Tips:<a hidden class="anchor" aria-hidden="true" href="#-advanced-tips-1">#</a></h3>
+</code></pre><h3 id="-advanced-tips-1">🚀 Advanced Tips<a hidden class="anchor" aria-hidden="true" href="#-advanced-tips-1">#</a></h3>
 <ul>
 <li>Ask for a <strong>mix of easy and difficult questions</strong> 🎯.</li>
 <li>Want to quiz yourself later? Request the <strong>answers hidden below a spoiler tag</strong> or as a separate message.</li>
@@ -177,9 +182,9 @@ Transcript:
 </ul>
 <hr>
 <h2 id="-3-grammar-practice-verb-conjugation-in-context-">🧩 3. Grammar Practice: Verb Conjugation in Context 🧠<a hidden class="anchor" aria-hidden="true" href="#-3-grammar-practice-verb-conjugation-in-context-">#</a></h2>
-<h3 id="-why-its-useful-2">✅ Why it&rsquo;s useful:<a hidden class="anchor" aria-hidden="true" href="#-why-its-useful-2">#</a></h3>
+<h3 id="-why-its-useful-2">✅ Why it&rsquo;s useful<a hidden class="anchor" aria-hidden="true" href="#-why-its-useful-2">#</a></h3>
 <p>Grammar doesn&rsquo;t have to mean dry drills. You can target specific structures <strong>in context</strong> using real sentences from your podcast. This kind of targeted practice strengthens your grammar and helps you notice patterns in natural speech.</p>
-<h3 id="-prompt-2">🧠 Prompt:<a hidden class="anchor" aria-hidden="true" href="#-prompt-2">#</a></h3>
+<h3 id="-prompt-2">🧠 Prompt<a hidden class="anchor" aria-hidden="true" href="#-prompt-2">#</a></h3>
 <pre tabindex="0"><code>You are a Spanish teacher.
 Let’s learn about verb conjugations.
 Select a tense (e.g. present, past, future) and extract verbs from the transcript.
@@ -196,13 +201,13 @@ Yo ___ (estar) muy cansado hoy.
 
 Transcript:
 &lt;Insert transcript here&gt;
-</code></pre><h3 id="-example-output-present-tense">📝 Example Output (Present Tense):<a hidden class="anchor" aria-hidden="true" href="#-example-output-present-tense">#</a></h3>
+</code></pre><h3 id="-example-output-present-tense">📝 Example Output (Present Tense)<a hidden class="anchor" aria-hidden="true" href="#-example-output-present-tense">#</a></h3>
 <pre tabindex="0"><code>1. Yo ___ (comer) en casa todos los días.
 2. Él ___ (trabajar) en una oficina en el centro.
 3. Nosotros ___ (estudiar) español por las noches.
 4. Ella ___ (vivir) cerca de la playa.
 5. Tú ___ (leer) muchos libros.
-</code></pre><h3 id="-advanced-tips-2">🚀 Advanced Tips:<a hidden class="anchor" aria-hidden="true" href="#-advanced-tips-2">#</a></h3>
+</code></pre><h3 id="-advanced-tips-2">🚀 Advanced Tips<a hidden class="anchor" aria-hidden="true" href="#-advanced-tips-2">#</a></h3>
 <ul>
 <li>Not sure which grammar point to study? Use: &ldquo;List all the grammatical concepts present in this transcript.&rdquo;</li>
 <li>Change the focus: &ldquo;Create 5 examples using the preterite tense.&rdquo; or &ldquo;Focus only on reflexive verbs.&rdquo;</li>
