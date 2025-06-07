@@ -6,8 +6,50 @@
     <description>Recent content in Tags on Langlets Blog</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 17:05:56 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Culture</title>
+      <link>http://localhost:1313/tags/culture/</link>
+      <pubDate>Sat, 07 Jun 2025 17:05:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>La Oreja De Van Gogh</title>
+      <link>http://localhost:1313/tags/la-oreja-de-van-gogh/</link>
+      <pubDate>Sat, 07 Jun 2025 17:05:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/la-oreja-de-van-gogh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Language Learning</title>
+      <link>http://localhost:1313/tags/language-learning/</link>
+      <pubDate>Sat, 07 Jun 2025 17:05:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/language-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:1313/tags/learning/</link>
+      <pubDate>Sat, 07 Jun 2025 17:05:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/tags/music/</link>
+      <pubDate>Sat, 07 Jun 2025 17:05:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spanish</title>
+      <link>http://localhost:1313/tags/spanish/</link>
+      <pubDate>Sat, 07 Jun 2025 17:05:56 +0300</pubDate>
+      <guid>http://localhost:1313/tags/spanish/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI Tools</title>
       <link>http://localhost:1313/tags/ai-tools/</link>
@@ -27,20 +69,6 @@
       <link>http://localhost:1313/tags/gpt/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/gpt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Language Learning</title>
-      <link>http://localhost:1313/tags/language-learning/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/language-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spanish</title>
-      <link>http://localhost:1313/tags/spanish/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spanish/</guid>
       <description></description>
     </item>
   </channel>
