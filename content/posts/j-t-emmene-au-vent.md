@@ -17,6 +17,15 @@ Today, we’re going to dive into this French classic. We’ll unpack the story 
 
 So, *allez viens* (come on), let’s go.
 
+{{< youtube BRTDC9Z5UdE >}}
+
+### Before we begin - Language Learning Practice For This Song
+
+Learning French with music? practice J't'emmène au vent with our langlet:
+[https://www.langlets.app/courses/j-t-emmene-au-vent](https://www.langlets.app/courses/j-t-emmene-au-vent)
+
+---
+
 ### The Backstory: A Revolution of Folk and Fury
 
 To understand the magic of "J't'emmène au vent," you first have to meet the band. Louise Attaque wasn't manufactured in a record label’s boardroom. They were forged in the fires of friendship and live performance.
@@ -127,7 +136,8 @@ Using the subjunctive correctly will instantly make your French more sophisticat
     * *Example: Je voudrais que tu **viennes** à ma fête.* (I would like you to come to my party.)
     * Now you try: `Je voudrais que ...`
 
-3.  **Listen Again:** Go back and listen to "J't'emmène au vent." This time, listen with new ears. Can you hear the raw energy of the violin? Can you feel the passion and the vulnerability in Gaëtan Roussel's voice? Can you pinpoint the moment at the end where the meaning flips on its head?
+3.  **Visit our langlet** and practice each verse with fun language activities:
+    [https://www.langlets.app/courses/j-t-emmene-au-vent](https://www.langlets.app/courses/j-t-emmene-au-vent)
 
 ### The Wrap-up: An Enduring Echo
 
@@ -135,5 +145,3 @@ The story of Louise Attaque and "J't'emmène au vent" is more than just music hi
 
 With its promise of escape, its declaration of true love, and its signature blast of violin, the song captured a feeling that is both uniquely French and deeply universal. It became the soundtrack for a generation, and its power hasn't faded. It remains a cultural touchstone, an enduring echo that proves that sometimes, the most powerful things grow from the ground up, carried to the world simply by word-of-mouth—and by the wind.
 
----
-***Now, it's your turn to join the conversation! What does this song make you feel? And what's a song in your native language that everyone knows by heart and sings along to at parties? Share it in the comments below!***
