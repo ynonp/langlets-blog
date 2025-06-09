@@ -2,16 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/culture/</loc>
-    <lastmod>2025-06-07T17:05:56+03:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-06-09T12:03:04+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/la-oreja-de-van-gogh/</loc>
-    <lastmod>2025-06-07T17:05:56+03:00</lastmod>
+    <loc>http://localhost:1313/categories/culture/</loc>
+    <lastmod>2025-06-09T12:03:04+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/culture/</loc>
+    <lastmod>2025-06-09T12:03:04+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/french/</loc>
+    <lastmod>2025-06-09T12:03:04+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-07T17:05:56+03:00</lastmod>
+    <lastmod>2025-06-09T12:03:04+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/language-learning/</loc>
+    <lastmod>2025-06-09T12:03:04+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/j-t-emmene-au-vent/</loc>
+    <lastmod>2025-06-09T12:03:04+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/louise-attaque/</loc>
+    <lastmod>2025-06-09T12:03:04+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/music/</loc>
+    <lastmod>2025-06-09T12:03:04+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-09T12:03:04+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-09T12:03:04+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tutorials/</loc>
+    <lastmod>2025-06-09T12:03:04+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/la-oreja-de-van-gogh/</loc>
     <lastmod>2025-06-07T17:05:56+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/learning/</loc>
@@ -20,34 +47,7 @@
     <loc>http://localhost:1313/posts/20-de-enero/</loc>
     <lastmod>2025-06-07T17:05:56+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/music/</loc>
-    <lastmod>2025-06-07T17:05:56+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-07T17:05:56+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/spanish/</loc>
     <lastmod>2025-06-07T17:05:56+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-07T17:05:56+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/learn-spanish-from-podcasts-ai-prompts/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ai-tools/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/comprehensible-input/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gpt/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/language-learning/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>
