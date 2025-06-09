@@ -7,13 +7,7 @@ categories: ["Tutorials", "Culture"]
 draft: false
 ---
 
-Have you ever felt that pull? That deep, restless urge to just grab someone’s hand and run? To leave everything behind, escape the noise of the crowd, and find a place where you can just be free? It’s a universal feeling, a storyline etched into road movies, epic novels, and, of course, unforgettable songs.
-
-In the French-speaking world, one song captures this feeling better than any other. It’s a blast of folk-rock energy with a whirlwind of violin and a chorus that, for decades, has been the anthem for youthful freedom, authentic love, and pure, unadulterated joy.
-
-The song is "J't'emmène au vent" by the band Louise Attaque.
-
-Today, we’re going to dive into this French classic. We’ll unpack the story of the band that came out of nowhere to become legends, decode the poetry of their most famous song, and explore why it became a cultural phenomenon. And along the way, you’ll pick up some fantastic French vocabulary and grammar that you can actually use.
+Today, we’re going to dive into the French classic "J't'emmène au vent". We’ll unpack the story of the band that came out of nowhere to become legends, decode the poetry of their most famous song, and explore why it became a cultural phenomenon. And along the way, you’ll pick up some fantastic French vocabulary and grammar that you can actually use.
 
 So, *allez viens* (come on), let’s go.
 
