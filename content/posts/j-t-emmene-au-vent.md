@@ -117,7 +117,7 @@ The trigger in this song is the phrase **"Je voudrais que..."** ("I would like t
 Let’s look at the examples from the song:
 
 * **Instead of:** `Je voudrais que tu te rappelles` (You remember - indicative)
-    **It is:** `Je voudrais que tu te **rappelles**` (I would like you to remember - subjunctive)
+    **It is:** `Je voudrais que tu te **rappelles**` (I would like you to remember - subjunctive. And yes it's the same spelling in this case, because French.)
 * **Instead of:** `Je voudrais que tu es là` (You are here - indicative)
     **It is:** `Je voudrais que tu **sois** là` (I would like you to be here - subjunctive)
 * **Instead of:** `Je voudrais que tu prends les devants` (You take the lead - indicative)
